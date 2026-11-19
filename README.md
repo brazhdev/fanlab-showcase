@@ -17,7 +17,7 @@ The queue makes individual tasks visible; the library gives finished media a pla
 | Content Factory | Production recipes, references, schedules and capacity estimates |
 | Queue | Run and task details, status filters, retry and cancellation controls |
 | Library | Searchable media, previews, agent filters and grouped outputs |
-| Publishing & audience | Post planning, reply drafts, assistant and recovery workflows |
+| Publishing and audience | Post planning, reply drafts, assistant and recovery workflows |
 
 ## Inside the workspace
 
