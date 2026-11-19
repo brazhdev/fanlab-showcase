@@ -2,7 +2,7 @@
 
 A creator operations workspace for shaping an agent's identity, planning content and managing the work between an idea and a publishing schedule.
 
-![Creator dashboard](artifacts/portfolio/desktop/dashboard1.png)
+![Creator dashboard](artifacts/portfolio/desktop/dashboard.png)
 
 ## One workspace for the production cycle
 
@@ -34,7 +34,7 @@ The queue makes individual tasks visible; the library gives finished media a pla
 
 ![Content Factory](artifacts/portfolio/desktop/factory.png)
 ![Production queue](artifacts/portfolio/desktop/queue.png)
-![Media library](artifacts/portfolio/desktop/library1.png)
+![Media library](artifacts/portfolio/desktop/library.png)
 
 </details>
 
